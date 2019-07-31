@@ -5,7 +5,7 @@
 	\author: "Dan Stowell",
 	\url:           "http://www.mcld.co.uk/",
 	\dependencies: [("ProcessTools" -> 1.0)],
-	\ext_dependancy: "LAME must be installed: see http://lame.sourceforge.net/ or install via fink or macports",
+	\ext_dependency: "LAME must be installed: see http://lame.sourceforge.net/ or install via fink or macports",
 	\version:	1.0,
 	\since: 2007,
 	\helpdoc: "SCPodcast.html"
